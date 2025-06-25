@@ -1,7 +1,3 @@
-Sì, **tutto quello** che ti ho scritto va incollato così com’è, **compreso "Author"** e tutte le sezioni.
-
-Quindi incolla **esattamente questo blocco** nel tuo `README.md`, senza togliere né aggiungere nulla:
-
 ````markdown
 # Expense Tracker
 
